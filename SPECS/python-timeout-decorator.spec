@@ -43,5 +43,5 @@ A python module which provides a timeout decorator.
 %{python3_sitelib}/timeout_decorator-%{version}-py%{python3_version}.egg-info
 
 %changelog
-* Thu Aug 26 2019 Joel Capitao <jcapitao@redhat.com>
+* Mon Aug 26 2019 Joel Capitao <jcapitao@redhat.com> - 0.4.1-1
 - Initial packaging
